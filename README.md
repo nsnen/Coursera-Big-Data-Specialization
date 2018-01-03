@@ -1,2 +1,2 @@
-# koe-repo
-Kokeilu
+# Coursera-Big-Data-Specialization
+kurssimateriaalit
